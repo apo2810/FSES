@@ -18,7 +18,7 @@
   'Poppins', sans-serif;
   scroll-behavior: smooth;
   --color-bg: #333334;
-  --color-light: #be1622;
+  --color-light: #1b9bd8;
   --hero-overlay-color: transparent;
   --menu-color: #ffffff;
   --theme-color: #333334;
@@ -31,7 +31,7 @@
   --light-color: #ffffff;
   --color-default: #3a3a3a;
   --color-primary: #333334;
-  --color-secondary: #be1622;
+  --color-secondary: #1b9bd8;
   --color-start: #3a3a3a;
   --color-end: #3a3a3a;
   --box-shadow-color: rgb(82 90 101 / 10%);
@@ -116,7 +116,7 @@ h6 {
   color: white; 
 }
 .image-list-section .left li span {
-  color: #be1622; 
+  color: #1b9bd8; 
   }
 
 .image-list-section .right {
@@ -212,7 +212,7 @@ section {
 
 .section-header p {
   margin-bottom: 0;
-  color: #be1622;
+  color: #1b9bd8;
 }
 
 img {
@@ -2172,7 +2172,7 @@ canvas{
 }
 
 .footer-cta {
-  border-bottom: 1px solid #c00113;
+  border-bottom: 1px solid #1b9bd8;
 }
 
 .copyright-text{
@@ -2180,7 +2180,7 @@ canvas{
 }
 
 .single-cta i {
-  color: #c00113;
+  color: #1b9bd8;
   font-size: 30px;
   float: left;
   margin-top: 8px;
@@ -2192,14 +2192,14 @@ canvas{
 }
 
 .cta-text h4 {
-  color: #c00113;
+  color: #1b9bd8;
   font-size: 20px;
   font-weight: 500;
   margin-bottom: 2px;
 }
 
 .cta-text span {
-  color: #c00113;
+  color: #1b9bd8;
   font-size: 15px;
 }
 
@@ -2243,7 +2243,7 @@ canvas{
 }
 
 .footer-social-icon span {
-  color: #c00113;
+  color: #1b9bd8;
   display: block;
   font-size: 20px;
   font-family: 'Poppins', sans-serif;
@@ -2271,19 +2271,19 @@ canvas{
   border-radius: 50%;
 }
 .facebook-bg {
-  background: #c00113;
+  background: #1b9bd8;
 }
 
 .twitter-bg {
-  background: #c00113;
+  background: #1b9bd8;
 }
 
 .google-bg {
-  background: #c00113;
+  background: #1b9bd8;
 }
 
 .footer-widget-heading h3 {
-  color: #c00113;
+  color: #1b9bd8;
   font-size: 20px;
   font-weight: 500;
   margin-bottom: 20px;
@@ -2299,7 +2299,7 @@ canvas{
 }
 
 .footer-widget ul li a:hover {
-  color: #c00113;
+  color: #1b9bd8;
 }
 
 .footer-widget ul li a {
@@ -2318,7 +2318,7 @@ canvas{
   padding: 14px 28px;
   background: #e4e4e4;
   border: 1px solid #e4e4e4;
-  color: #c00113;
+  color: #1b9bd8;
   outline: none;
 }
 
@@ -2331,7 +2331,7 @@ canvas{
 }
 
 .subscribe-form button i {
-  color: #c00113;
+  color: #1b9bd8;
   font-size: 3rem;
   transform: rotate(-6deg);
 }
@@ -2347,7 +2347,7 @@ canvas{
 }
 
 .copyright-text p a {
-  color: #c00113;
+  color: #1b9bd8;
 }
 
 .footer-menu li {

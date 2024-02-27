@@ -1464,7 +1464,7 @@ section {background: var(--light-color);}
 .hero {
   width: 100%;
   position: relative;
-  background: url(video-fse.mp4) center center;
+  background: url(video-fses.mp4) center center;
   background-size: cover;
   padding: 60px 0 0 0;
   height: 100vh;

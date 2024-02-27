@@ -34,33 +34,29 @@
 </head>
 
 <body>
-
-<header id="header" class="header d-flex align-items-center sticked stikcy-menu">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-      <a href="index.html" class="logo d-flex align-items-center">
-        <img src="assets/images/logo.png" alt="logo fse">
-      </a>
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a href="index.html" class="">Accueil</a></li>
-          <li class="dropdown"><a href="services.html"><span>Services</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="services.html#incendie">Incendie</a></li>
-              <li><a href="services.html#alarmes">Alarme Intrusion</a></li>
-              <li><a href="services.html#videosurveillance">Vidéosurveillance</a></li>
-              <li><a href="services.html#vdi">VDI</a></li>
-              <li><a href="services.html#controle">Contrôle d'accès</a></li>
-              <li><a href="services.html#porte">Porte - Portails et Automatismes</a></li>
-              <li><a href="services.html#gtb">GTB</a></li>
-            </ul>
-          </li>
-          <li><a href="recrutement.html" class="">Recrutement</a></li>
-        </ul>
-      </nav><!-- .navbar -->
-      <a href="contact.html" class="btn-get-started hide-on-mobile">Nous contacter</a>
-      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-    </div>
+  <header id="header" class="header d-flex align-items-center sticked stikcy-menu">
+      <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+        <a href="index.html" class="logo d-flex align-items-center">
+          <img src="assets/images/fses-blc.png" alt="logo fses">
+        </a>
+        <nav id="navbar" class="navbar">
+          <ul>
+            <li><a href="index.html" class="">Accueil</a></li>
+            <li class="dropdown"><a href="services.html"><span>Services</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <ul>
+                <li><a href="services.html#telesurveillance">Telesurveillance</a></li>
+                <li><a href="services.html#intervention">Intervention</a></li>
+                <li><a href="services.html#gardiennage">Gardiennage</a></li>
+                <li><a href="services.html#rondes">Rondes</a></li>
+              </ul>
+            </li>
+            <li><a href="recrutement.html" class="">Recrutement</a></li>
+          </ul>
+        </nav><!-- .navbar -->
+        <a href="contact.html" class="btn-get-started hide-on-mobile">Nous contacter</a>
+        <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+        <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+      </div>
   </header>
   <!-- End Header -->
 
@@ -115,7 +111,7 @@
                   <div class="single-contact-info-box">
                     <div class="contact-info">
                       <h6>Email:</h6>
-                      <p>contact@fsesecurite.fr</p>
+                      <p>contact@fsesurete.fr</p>
                     </div>
                   </div>
                 </div>
@@ -162,7 +158,7 @@
                       <div class="messages">
                         <div class="alert alert alert-success alert-dismissable alert-dismissable hidden"
                           id="msgSubmit"><button type="button" class="close" data-dismiss="alert"
-                            aria-hidden="true">&times;</button> Thank You! your message has been sent. </div>
+                            aria-hidden="true">&times;</button> Merci! your message has been sent. </div>
                       </div>
                     </div>
                   </div>
@@ -208,7 +204,7 @@
                     <div class="footer-widget">
                         <div class="footer-logo">
                             <a href="index.html" class="logo d-flex align-items-center">
-                              <img src="assets/images/logo.png" alt="logo">
+                              <img src="assets/images/fses-blc.png" alt="logo fses">
                             </a>
                         </div>
                         <div class="footer-text">
@@ -216,7 +212,7 @@
                         </div>
                         <div class="footer-social-icon">
                             <span>Suivez nous</span>
-                            <a href="#" class="instagram"><img src="assets/images/fses-blc.png" class="bi "></img></a>
+                            <a href="#" class="instagram"><img src="assets/images/logo.png" class="bi "></img></a>
                             <a href="https://www.linkedin.com/company/fse-france-securite-electronique/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
@@ -228,13 +224,10 @@
                             <h3>Services</h3>
                         </div>
                           <ul class="list">
-                            <li><a href="services.html#incendie">Incendie</a></li>
-                            <li><a href="services.html#alarmes">Alarme Intrusion</a></li>
-                            <li><a href="services.html#videosurveillance">Vidéosurveillance</a></li>
-                            <li><a href="services.html#vdi">VDI</a></li>
-                            <li><a href="services.html#controle">Contrôle d'accès</a></li>
-                            <li><a href="services.html#porte">Porte - Portails et Automatismes</a></li>
-                            <li><a href="services.html#gtb">GTB</a></li>
+                            <li><a href="services.html#telesurveillance">Telesurveillance</a></li>
+                            <li><a href="services.html#intervention">Intervention</a></li>
+                            <li><a href="services.html#gardiennage">Gardiennage</a></li>
+                            <li><a href="services.html#rondes">Rondes</a></li>
                           </ul>
                       </div>
                   </div>
@@ -246,7 +239,7 @@
                           <div class="footer-text">
                               <p><i class="bi bi-geo-alt-fill mr-15"></i> 117 Avenue du Président Salvador Allende 93100 Montreuil</p>
                               <p><i class="bi bi-telephone-inbound-fill mr-15"></i>Tel: 01 48 11 12 26</p>
-                              <p><i class="bi bi-envelope-fill mr-15"></i> contact@fsesecurite.fr</p>
+                              <p><i class="bi bi-envelope-fill mr-15"></i> contact@fsesurete.fr</p>
                           </div>
                     </div>
                     <div class="service-widget footer-widget">
@@ -262,7 +255,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 text-left text-lg-left">
                     <div class="copyright-text">
-                        <p>FSE © 2024 - Designé par <a href="https://studio-allgraphic.com/" target="_blank"> Studio All'graphic</a></p>
+                        <p>FSES © 2024 - Designé par <a href="https://studio-allgraphic.com/" target="_blank"> Studio All'graphic</a></p>
                     </div>
                 </div>
             </div>

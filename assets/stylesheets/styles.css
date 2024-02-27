@@ -246,7 +246,7 @@ img:hover {
 .breadcrumbs .page-header {
   padding: 120px 0 60px 0;
   min-height: 20vh;
-  background: url(../images/page-header-bg.png) center bottom;
+  background: url(../images/page-header-bg.png) center center;
   background-size: cover;
   border-radius: 0px;
   overflow: hidden;
@@ -1076,7 +1076,7 @@ section {background: var(--light-color);}
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action {
-  background: url(../images/hero-bg.png) center left;
+  background: url(../images/hero-bg.png) top ;
   background-size: cover;
   padding: 150px 0px;
   border-radius: 0px;
@@ -1596,13 +1596,13 @@ section {background: var(--light-color);}
 
 @media (max-width: 991px) {
   .hero {
-    background: url(../images/hero-bg.png) center center;
+    background: url(../images/hero-bg.png) top right;
   }
   .hero h2 {
     font-size: 22px;
   }
   .call-to-action {
-    background: url(../images/cta-bg.jpg) center left;
+    background: url(../images/cta-bg.jpg) top left;
       background-size: cover;
       padding: 150px 60px;
       border-radius: 0px;

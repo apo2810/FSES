@@ -2444,3 +2444,17 @@ th {
 .tableau {
   background-color: #dcdcdc;
 }
+
+/* réferences */
+
+.ref{
+  align-items: center;
+  height: 200px;
+}
+.ref .bnp img{
+  width: 200px;
+}
+.ref .big img{
+  width: 130px;
+  align-items: center;
+}
